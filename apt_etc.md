@@ -5,4 +5,4 @@
 
  - What files are owned by this package?
  
-`dpkg-query -S gnome-shell-extension-gsconnect`
+`dpkg-query -S example-package`
